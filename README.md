@@ -106,11 +106,14 @@ Open Jupyter Notebook:
 
 jupyter notebook
 
+
 Open:
 
 sentiment_analysis.ipynb
 
 Run all notebook cells sequentially.
+
+
 
 
 Results
